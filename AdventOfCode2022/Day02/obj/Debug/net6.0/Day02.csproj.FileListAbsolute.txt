@@ -1,0 +1,15 @@
+/Users/bholland/Projects/AdventOfCode2022/AdventOfCode2022/Day02/bin/Debug/net6.0/AdventOfCode2022
+/Users/bholland/Projects/AdventOfCode2022/AdventOfCode2022/Day02/bin/Debug/net6.0/AdventOfCode2022.deps.json
+/Users/bholland/Projects/AdventOfCode2022/AdventOfCode2022/Day02/bin/Debug/net6.0/AdventOfCode2022.runtimeconfig.json
+/Users/bholland/Projects/AdventOfCode2022/AdventOfCode2022/Day02/bin/Debug/net6.0/AdventOfCode2022.dll
+/Users/bholland/Projects/AdventOfCode2022/AdventOfCode2022/Day02/bin/Debug/net6.0/AdventOfCode2022.pdb
+/Users/bholland/Projects/AdventOfCode2022/AdventOfCode2022/Day02/obj/Debug/net6.0/Day02.csproj.AssemblyReference.cache
+/Users/bholland/Projects/AdventOfCode2022/AdventOfCode2022/Day02/obj/Debug/net6.0/Day02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bholland/Projects/AdventOfCode2022/AdventOfCode2022/Day02/obj/Debug/net6.0/Day02.AssemblyInfoInputs.cache
+/Users/bholland/Projects/AdventOfCode2022/AdventOfCode2022/Day02/obj/Debug/net6.0/Day02.AssemblyInfo.cs
+/Users/bholland/Projects/AdventOfCode2022/AdventOfCode2022/Day02/obj/Debug/net6.0/Day02.csproj.CoreCompileInputs.cache
+/Users/bholland/Projects/AdventOfCode2022/AdventOfCode2022/Day02/obj/Debug/net6.0/AdventOfCode2022.dll
+/Users/bholland/Projects/AdventOfCode2022/AdventOfCode2022/Day02/obj/Debug/net6.0/refint/AdventOfCode2022.dll
+/Users/bholland/Projects/AdventOfCode2022/AdventOfCode2022/Day02/obj/Debug/net6.0/AdventOfCode2022.pdb
+/Users/bholland/Projects/AdventOfCode2022/AdventOfCode2022/Day02/obj/Debug/net6.0/Day02.genruntimeconfig.cache
+/Users/bholland/Projects/AdventOfCode2022/AdventOfCode2022/Day02/obj/Debug/net6.0/ref/AdventOfCode2022.dll
